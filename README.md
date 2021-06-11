@@ -1,5 +1,3 @@
-# 感谢观看，资料分享！
-干货内容分享
 # 持续更新最新热门文章
 
 
@@ -16,9 +14,8 @@
 8、[iOS逆向安防从入门到秃头--砸壳&Frida](https://github.com/uzi-yyds-code/IOS-reverse-security/blob/main/iOS%E9%80%86%E5%90%91%E5%AE%89%E9%98%B2%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%A7%83%E5%A4%B4--%E7%A0%B8%E5%A3%B3%26Frida.md)
 9、[iOS逆向钉钉 "居家" 打卡成功 (插件&开关)](https://github.com/uzi-yyds-code/IOS-reverse-security/blob/main/iOS%E9%80%86%E5%90%91%E9%92%89%E9%92%89%20%22%E5%B1%85%E5%AE%B6%22%20%E6%89%93%E5%8D%A1%E6%88%90%E5%8A%9F%20%20(%E6%8F%92%E4%BB%B6%26%E5%BC%80%E5%85%B3).md)
 10、[iOS逆向：用Xcode直接调试第三方app](https://github.com/uzi-yyds-code/IOS-reverse-security/blob/main/iOS%E9%80%86%E5%90%91%EF%BC%9A%E7%94%A8Xcode%E7%9B%B4%E6%8E%A5%E8%B0%83%E8%AF%95%E7%AC%AC%E4%B8%89%E6%96%B9app.md)
-*********
 
-#坚持维护更新中~
+ # 坚持维护更新中~
 **喜欢的点个星，谢谢 。**
 
 # 更新最新热门文章
@@ -26,4 +23,3 @@
 *   [逆向入门到进阶项目合集](https://github.com/uzi-yyds-code/IOS-reverse-security)
 *   [BAT最新面试题合集](https://github.com/uzi-yyds-code/Good-interview)
 *   [iOS语音视频入门到进阶](https://github.com/uzi-yyds-code/IOS-audio-and-video-technology)
-
